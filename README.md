@@ -9,7 +9,7 @@ https://tinypng.com/developers
 
 ```javascript
 //file : path/to/project/fis-conf.js
-fis.match('/img/(*.{jpg,png,gif})', {
+fis.match('/img/(*.{jpg,png})', {
     optimizer: fis.plugin('tinypng', {
         to: '../output/img',
         key: 'xxxxxxxxxxxxxxxxxxxxxx'
