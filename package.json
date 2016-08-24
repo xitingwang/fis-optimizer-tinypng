@@ -1,0 +1,26 @@
+{
+  "name": "fis-optimizer-tinypng",
+  "version": "1.0.0",
+  "description": "Compress JPG,PNG With Tinyphp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xitingwang/fis-optimizer-tinypng.git"
+  },
+  "keywords": [
+    "fis", "fis3", "minify", "tinypng",
+    "jpg", "png", "image", "compress",
+    "compressor"
+  ],
+  "dependencies": {
+    "fs": "*",
+    "path": "*",
+    "request": "*",
+    "colors": "*"
+  },
+  "author": "dw_wangchao1 <wangchao1@yy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xitingwang/fis-optimizer-tinypng/issues"
+  }
+}
