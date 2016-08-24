@@ -3,7 +3,7 @@
 A optimizer for fis to compress JPG,PNG by using tinypng.
 ## use
 ```node
-npm install --save fis-optimizer-imagemin
+npm install --save fis-optimizer-tinypng
 ```
 Application for key
 https://tinypng.com/developers
